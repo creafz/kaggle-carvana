@@ -1,4 +1,4 @@
-The solution for the Carvana Image Masking Challenge on Kaggle. It uses a custom version of RefineNet with Squeeze-and-Excitation modules implemented in PyTorch. It was a part of the final ensemble that was ranked 25 out of 735 teams (top 4%).
+The solution for the Carvana Image Masking Challenge on Kaggle. It uses a custom version of RefineNet with Squeeze-and-Excitation modules implemented in PyTorch. It was a part of the final ensemble that was ranked 23 out of 735 teams (top 4%).
 
 ### About the Competition
 The goal of the [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) was to develop an algorithm that removes a background from a wide variety of car photos. Here you can see predictions from a trained neural network for 16 images of a single car.

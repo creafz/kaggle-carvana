@@ -12,7 +12,7 @@ As described in the original paper, Squeeze-and-Excitation blocks "adaptively re
 won first place and achieved a ∼25% relative improvement over the
 winning entry of 2016." For more details see ["Squeeze-and-Excitation Networks"](https://arxiv.org/abs/1709.01507) by Jie Hu, Li Shen and Gang Sun.
 
-My version of RefineNet based on [this PyTorch implementation](https://github.com/thomasjpfan/pytorch_refinenet) of the original paper by Thomas Fan.
+[My version of RefineNet](https://github.com/creafz/kaggle-carvana/blob/master/models/se_refinenet.py) based on [this PyTorch implementation](https://github.com/thomasjpfan/pytorch_refinenet) of the original paper by Thomas Fan.
 
 ### Requirements
 - Python 3.6

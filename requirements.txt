@@ -1,0 +1,11 @@
+click
+imgaug
+numpy
+opencv-python
+pandas
+pycrayon
+scikit-image
+scikit-learn
+torch
+torchvision
+tqdm

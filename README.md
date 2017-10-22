@@ -3,10 +3,10 @@ The solution for the Carvana Image Masking Challenge on Kaggle. It uses a custom
 ### About the Competition
 The goal of the [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) was to develop an algorithm that removes a background from a wide variety of car photos. Here you can see predictions from a trained neural network for 16 images of a single car.
 
+![Neural network predictions](https://raw.githubusercontent.com/creafz/kaggle-carvana/master/img/example_predictions.gif)
+
 ### About the model
 RefineNet is a convolutional neural network developed for semantic segmentation. For more details see ["RefineNet: Multi-Path Refinement Networks with Identity Mappings for High-Resolution Semantic Segmentation"](https://arxiv.org/abs/1611.06612) by Guosheng Lin, Anton Milan, Chunhua Shen and Ian Reid.
-
-![Neural network predictions](https://raw.githubusercontent.com/creafz/kaggle-carvana/master/img/example_predictions.gif)
 
 As described in the original paper, Squeeze-and-Excitation blocks "adaptively recalibrate channel-wise feature responses by explicitly modelling interdependencies between channels. These blocks were foundation of ILSVRC 2017 classification submission which
 won first place and achieved a ∼25% relative improvement over the
